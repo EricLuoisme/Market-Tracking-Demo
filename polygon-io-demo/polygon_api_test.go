@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	apiKey   = "LtsCZadfcYZn3qtiOQ8_3oDpnL7NJ3rQ"
+	apiKey   = ""
 	adjusted = true
 	cli      = polygon.New(apiKey)
 )
